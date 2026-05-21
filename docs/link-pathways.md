@@ -23,4 +23,4 @@ The public journey should be easy to follow:
 
 The site now renders floating back-to-top plus previous/next navigation from the shared JavaScript page trail.
 
-The home page links outward to P4A Aura Genesis, P4A Civic Surges, P4A Housing Simulations, P4A Web3 Sensorium, P4A Minjerribah, the Brisbane early-support page, the Straddie Disaster Kiosks site, the Straddie Noticeboard Network, the Straddie wellbeing co-op site and the Straddie Content Assets Kit.
+The home page links outward to the live Capsule Surge Lab GitHub Pages site, the Capsule Surge Lab source repo, P4A Aura Genesis, P4A Civic Surges, P4A Housing Simulations, P4A Web3 Sensorium, P4A Minjerribah, the Mineral Moonshots capsule card, the Mineral Moonshots source repo, the Brisbane early-support page, the Straddie Disaster Kiosks site, the Straddie Noticeboard Network, the Straddie wellbeing co-op site and the Straddie Content Assets Kit.

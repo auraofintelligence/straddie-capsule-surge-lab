@@ -290,7 +290,10 @@
       "- Straddie Content Assets Kit: https://auraofintelligence.github.io/straddie-content-assets-kit/",
       "- Straddie Disaster Kiosks: https://auraofintelligence.github.io/straddie-disaster-kiosks/",
       "- Straddie Noticeboard Network: https://auraofintelligence.github.io/straddie-noticeboard-network/",
-      "- Mineral Moonshots capsule card: https://auraofintelligence.github.io/mineral-moonshots/briefs/capsule-hotels.html"
+      "- Capsule Surge Lab public site: https://auraofintelligence.github.io/straddie-capsule-surge-lab/",
+      "- Capsule Surge Lab repo: https://github.com/auraofintelligence/straddie-capsule-surge-lab",
+      "- Mineral Moonshots capsule card: https://auraofintelligence.github.io/mineral-moonshots/briefs/capsule-hotels.html",
+      "- Mineral Moonshots repo: https://github.com/auraofintelligence/mineral-moonshots"
     );
     return lines.join("\n").replace(/\n{3,}/g, "\n\n").trim() + "\n";
   }
